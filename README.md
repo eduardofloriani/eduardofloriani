@@ -5,8 +5,6 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardofloriani&bg_color=0d1117&color=ffb703&line=ffb703&point=ffb703&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
   <h1>About me 👨‍💻</h1>
   <p>Hello, I'm Eduardo Moser Floriani and I'm 18 years old. I am a person who always dedicates himself to the fullest and enjoys new challenges.
